@@ -1,0 +1,35 @@
+{
+  "name": "incidunterror",
+  "version": "1.8.0",
+  "description": "Check if NPM package names conflict",
+  "main": "./build/index.js",
+  "author": "LilianaToy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiaFlatley/incidunterror.git"
+  },
+  "keywords": [
+    "dolor",
+    "nostrum",
+    "vero",
+    "names",
+    "a",
+    "quam",
+    "consectetur",
+    "consectetur",
+    "any",
+    "a",
+    "voluptatem",
+    "maxime",
+    "ts"
+  ],
+  "devDependencies": {
+    "@bconnorwhite/bob": "^1.9.7",
+    "jest": "^26.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/LiaFlatley/incidunterror.git/issues"
+  },
+  "homepage": "https://github.com/LiaFlatley/incidunterror.git"
+}
